@@ -1,0 +1,14 @@
+{
+  "project": "josiah-willard-gibbs-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "6CVD3NeWibSX8ZkzVoAyCQxcro7puHrPoSmoexbB8uSB",
+  "vault_account": "3St14oTndC8K9HTnHtYsidqJaS5JnV2Q6wmWMvJBATvQ",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5qzxT1sd52aVxhTPrYKh5ZXC2Ydi2ae65zGRiBdo9Te5BFtvytxNtUr29bKwwaiQwzNHZ2Pwo33h9bhNFcardrzm",
+  "account_tx": "4SW3W4vjpH3RjRupo8zCz35NEpBwCmieG3ehLWpX6or5R7EwEGeJPX9X6zMEkmNf8Sw98ca4svrrgVquupKRP3Sk",
+  "mint_tx": "5GiPFE3muBUrjmhEjzi9RzgCCx5S6PhM1wnbmc2adWZAhV5rXHtoJKPTKCrM1r4i2Qy9dxCiaMyd3Ja4Tg3v7YBh",
+  "solana_explorer_mint": "https://explorer.solana.com/address/6CVD3NeWibSX8ZkzVoAyCQxcro7puHrPoSmoexbB8uSB?cluster=devnet",
+  "timestamp": "2026-10-26 16:45:35 UTC"
+}
